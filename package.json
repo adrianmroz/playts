@@ -1,0 +1,26 @@
+{
+  "name": "playts",
+  "version": "1.0.0",
+  "description": "Typescript template for play.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianmroz/playts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianmroz/playts/issues"
+  },
+  "homepage": "https://github.com/adrianmroz/playts#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.8",
+    "jest": "^26.2.2",
+    "ts-jest": "^26.1.4",
+    "typescript": "^3.9.7"
+  }
+}
